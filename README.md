@@ -35,7 +35,11 @@ Click the "Get Weather" button.
 View the current weather information for that location, including temperature, humidity, wind speed, and more.
 
  ![4](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/38474c4d-7401-4e88-91d8-d44b435dc72c)
+
 ![3](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/e04c7449-e3f6-41df-9ae9-271dc51fda84)
+
 ![2](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/8d6bf44e-b37f-48eb-bd71-ff98562ee376)
-![1](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/12a02dd7-e332-4d60-a040-3ad298d596ef)
+
 ![5](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/9d7d1ba6-8c34-4985-b201-731008cad0f0)
+
+![1](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/12a02dd7-e332-4d60-a040-3ad298d596ef)
