@@ -11,7 +11,9 @@ Front-end technologies: Uses HTML, CSS, and JavaScript for a visually appealing 
 
 # Technologies Used #
 Front-end: HTML, CSS, JavaScript
+
 Back-end: Java Servlets, JSP
+
 API: OpenWeatherMap API
 
 # Getting Started
