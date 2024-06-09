@@ -3,11 +3,11 @@ A dynamic web application that delivers real-time weather information, powered b
 
 Features
 Real-time weather data: Fetches current weather conditions, including temperature, humidity, wind speed, and more, using the OpenWeatherMap API.
-Highly responsive: Provides quick and accurate weather updates, ensuring a seamless user experience.
-User-friendly interface: Presents weather information in a clear and visually appealing way, making it easy to understand and navigate.
-Built with Java Servlets and JSP: Leverages these robust technologies to create a scalable and maintainable web application.
-Front-end technologies: Uses HTML, CSS, and JavaScript for a visually appealing and responsive user interface.
 
+Highly responsive: Provides quick and accurate weather updates, ensuring a seamless user experience.
+
+User-friendly interface: Presents weather information in a clear and visually appealing way, making it easy to understand and navigate.
+ 
 
 # Technologies Used #
 Front-end: HTML, CSS, JavaScript
