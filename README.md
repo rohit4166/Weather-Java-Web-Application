@@ -36,7 +36,7 @@ View the current weather information for that location, including temperature, h
 
 ![Screenshot (18)](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/3a512208-df61-45d4-a1ed-b70cffcfd656)
 
- ![4![Screenshot (19)](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/b77872ba-1e26-42e5-baa9-cedba35d2a44)
+![Screenshot (19)](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/b77872ba-1e26-42e5-baa9-cedba35d2a44)
 
 ![3](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/e04c7449-e3f6-41df-9ae9-271dc51fda84)
 
