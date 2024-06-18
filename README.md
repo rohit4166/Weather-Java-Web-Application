@@ -34,7 +34,9 @@ Enter a city name or location in the search bar.
 Click the "Get Weather" button.
 View the current weather information for that location, including temperature, humidity, wind speed, and more.
 
- ![4](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/38474c4d-7401-4e88-91d8-d44b435dc72c)
+![Screenshot (18)](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/3a512208-df61-45d4-a1ed-b70cffcfd656)
+
+ ![4![Screenshot (19)](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/b77872ba-1e26-42e5-baa9-cedba35d2a44)
 
 ![3](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/e04c7449-e3f6-41df-9ae9-271dc51fda84)
 
@@ -42,4 +44,4 @@ View the current weather information for that location, including temperature, h
 
 ![5](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/9d7d1ba6-8c34-4985-b201-731008cad0f0)
 
-![1](https://github.com/rohit4166/Weather-Java-Web-Application/assets/129392163/12a02dd7-e332-4d60-a040-3ad298d596ef)
+ 
